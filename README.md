@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trunisme
 - 👉 I’m interested in cryptocurrency and bankrupt once LoL
-- 📫 DM me on me@trun.xyz
+- 📫 DM me on Telegram @trunisme
 
 <!---
 trunisme/trunisme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
